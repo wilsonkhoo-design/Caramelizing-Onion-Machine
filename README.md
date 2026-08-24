@@ -1,5 +1,5 @@
-#Hello and welcome
-##Software Used
+# Hello and welcome
+## Software Used
 - LTSpice for simulations
 - KiCAD for PCB Design
 - STM32CUBE MX for pin configuration
