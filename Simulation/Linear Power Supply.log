@@ -1,0 +1,17 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\wilso\Documents\LTspice\Linear Power Supply.net
+Start Time: Sat Aug 22 18:45:07 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.168 seconds.
+
+Files loaded:
+C:\Users\wilso\Documents\LTspice\Linear Power Supply.net
+C:\Users\wilso\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\wilso\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\wilso\AppData\Local\LTspice\lib\sub\ADI1.lib
+
